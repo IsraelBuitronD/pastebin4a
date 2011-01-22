@@ -1,0 +1,6 @@
+v0.0.1:
+- POST and GET http methods supported.
+- About dialog implemented.
+- Paste response dialog implemented.
+- Paste url response copy to clipboard.
+- Icons added for menus in ShowPaste activity (Send, Preferences and About).

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:id="@+id/version_label"
+            android:layout_marginLeft="5sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/version_msg"/>
+        <TextView
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginBottom="5sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/description_project_msg"/>
+        <TextView
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginBottom="5sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/send_me_bugs_msg"/>
+        <TextView
+            android:layout_marginLeft="5sp"
+            android:layout_marginBottom="5sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/homepage_msg"
+            android:autoLink="web"/>
+        <TextView
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginBottom="5sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/credits_msg"
+            android:autoLink="all"/>
+    </LinearLayout>
+</ScrollView>

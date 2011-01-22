@@ -1,0 +1,7 @@
+- Fix default paste language preference.
+- Support multilanguage.
+- Automatic email bug notification.
+- Support expiration time and project name in paste paramters.
+- Display a toast when paste response url where copied to clipboard.
+- Improve exceptions manage on ShowPaste class.
+- Improve javadoc.

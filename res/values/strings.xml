@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pastebin for Android</string>
+    
+    <!-- Show Create Pastebin -->
+    <string name="required">Required</string>
+    <string name="text">Text</string>
+    <string name="paste_text_hint">Insert your text to paste</string>
+    <string name="paste_text_empty_warning">Paste data can\'t be empty</string>
+    <string name="language">Language</string>
+    <string name="paste_language_hint">Select your language for paste</string>
+    <string name="user">User</string>
+    <string name="paste_user_hint">Insert user for paste</string>
+    <string name="password">Password</string>
+    <string name="paste_password_hint">Insert password for paste</string>
+    <string name="paste_private">Private</string>
+    <string name="paste_private_hint">Select to make paste private</string>
+    <string name="send">Send</string>
+    <string name="preferences">Preferences</string>
+    <string name="quit">Quit</string>
+    <string name="send_method">Send method</string>
+    <string name="send_method_hint">Select a HTTP method to send paste</string>
+    <string-array name="http_methods">
+        <item>GET http method</item>
+        <item>POST http method</item>
+    </string-array>
+    <string-array name="http_methods_codes">
+        <item>get</item>
+        <item>post</item>
+    </string-array>
+    <string name="default_paste_language">Default paste language</string>
+    <string name="default_paste_language_hint">Select your default paste language</string>
+    
+    <!-- Paste create dialog -->
+    <string name="paste_id_label">Paste ID</string>
+    <string name="paste_hash_label">Paste Hash</string>
+    <string name="paste_url_label">Paste Url</string>
+    <string name="paste_created_dialog_title">Pastebin Response</string>
+    <string name="close_button">Close</string>
+    <string name="copy_button">Copy to clipboard</string>
+    
+    <!-- About dialog -->
+    <string name="about">About</string>
+    <string name="send_me_bugs_msg">If you find some error, or you have comments or suggestions, please send me an email.</string>
+    <string name="homepage_msg">Homepage: http://github.com/neoriddle/pastebin4a</string>
+    <string name="version_msg">Version %s</string>
+    <string name="description_project_msg">Pastebin for Android (pastebin4a) is a project which intents to be a simple tool to post chunks of text or code on servers like pastebin.\nThis project is in progress, so if you have ideas to make grow up, we can include them. We need contributors!</string>
+    <string name="credits_msg">Credits:\nProject Leader:\n\tIsrael Buitron\n\t\tEmail: israel.buitron@gmail.com\n\t\tGPG key: 0x798E944C</string>
+</resources>

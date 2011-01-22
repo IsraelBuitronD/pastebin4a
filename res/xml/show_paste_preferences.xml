@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="@string/send_method"
+        android:entries="@array/http_methods"
+        android:key="http_send_method"
+        android:summary="@string/send_method_hint"
+        android:entryValues="@array/http_methods_codes"
+        />
+    <ListPreference
+        android:title="@string/default_paste_language"
+        android:entries="@array/languages_array"
+        android:key="default_paste_language"
+        android:summary="@string/default_paste_language_hint"
+        android:entryValues="@array/languages_codes_array"
+        />
+</PreferenceScreen>

@@ -1,0 +1,34 @@
+Description
+===========
+
+Pastebin4A is a simple tool for Android to post chunks of text or 
+code on servers like pastebin.
+
+
+Get the project
+===============
+
+Pastebin4A is mounted into a Git repository, you can get a clone
+with this url:
+
+    git://github.com/neoriddle/pastebin4a.git
+
+
+ToDo List and Pendings
+======================
+
+To check things TODO, please check 'TODO' file.
+
+If you detect some error or have SUGGESTIONS or COMMENTS, please BE
+FREE TO CONTACT ME to notify me or if you was to make contributions
+too.
+
+
+Contact Info
+============
+
+Name    Israel Buitron
+Email   israel.buitron@gmail.com
+        ibuitron@computacion.cs.cinvestav.mx
+Webpage http://github.com/neoriddle/pastebin4a
+        http://computacion.cs.cinvestav.mx/~ibuitron
